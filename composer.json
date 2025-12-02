@@ -1,0 +1,21 @@
+{
+  "name": "mreweb/jsonc-parser",
+  "description": "A JSONC (JSON with Comments) parser for PHP",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Mreweb\\JsoncParser\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  },
+  "authors": [
+    {
+      "name": "Mohammadreza Esmaeeli",
+      "email": "esmaeeli1923@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
