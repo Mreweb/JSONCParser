@@ -15,4 +15,4 @@ It allows you to read JSON files containing comments (`//` and `/* ... */`) safe
 Install via Composer:
 
 ```bash
-composer require your-vendor/jsonc-parser
+composer require mreweb/jsonc-parser
